@@ -1,0 +1,41 @@
+.backButton {
+    text-decoration: none;
+    color: black
+}
+
+.teamLeadContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.photo {
+    background-color: lightgray;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.leadUsername {
+    margin: 0px;
+    align-self: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black; 
+}
+
+.teamMemberContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.teamMemberUsername {
+    margin: 0px;
+    align-self: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}

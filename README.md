@@ -1,0 +1,1 @@
+a. clone/download b. cd into folder c. npm install d. npm start (localhost:8080)

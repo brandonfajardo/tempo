@@ -1,0 +1,25 @@
+.userContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+
+.photo {
+    height: 50px;
+    width: 50px;
+    background-color: lightgray;
+}
+
+.nameContainer {
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.userName {
+    margin: 0px;
+    align-self: center;
+}
+
+.chip {
+    margin-right: 5px;
+}
